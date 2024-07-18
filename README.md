@@ -2,9 +2,7 @@
 
 # bash-handbook
 
-[![CC 4.0][cc-image]][cc-url]
-[![NPM version][npm-image]][npm-url]
-[![Gitter][gitter-image]][gitter-url]
+
 
 This document is written for those who want to learn Bash without diving in too deeply.
 
